@@ -1,3 +1,3 @@
 # Digital-Resume
 This is my first GitHub project – a digital resume.
-My name is Yasmin Chambers
+My name is Yasmin Chambers and I am a senior Computer Engineering major at Mississippi State University from Jackson, Mississippi. I joined the United States Army Reserves in 2020 upon graduating high school. I am now in my final year of Army ROTC with hopes of branching Cyber. My hobbies include research, working out, writing poetry, and reading. I am looking forward to further developing my technical skills and working in team settings. 
